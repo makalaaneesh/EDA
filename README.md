@@ -1,4 +1,6 @@
+# Exploratory Data Analyses
 Some datasets which I have explored, analysed, and presented some insights on.
+To view the visualizations in notebooks and for a better viewing experience overall, go to https://nbviewer.jupyter.org/github/makalaaneesh/EDA/tree/master/ 
 
 ### Perseverence
 As part of https://www.kaggle.com/c/kaggle-survey-2019, I explored the distributions of answers given by practioners in the fields of  Data Science and Machine Learning
